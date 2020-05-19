@@ -17,7 +17,20 @@ USBインターフェースの入力処理や設定を全てこのモジュー�
 
 ### [ファームウェアソースはこちら](https://github.com/bit-trade-one/ADRVMIC-REVIVE-USB-Micro/raw/master/Firmware_source/ReviveMicro_FW_ver001.zip)
 
-## 基本仕様
+## 作例
+
+[BTO公式]()  
+[Twitter作例1]()  
+[Twitter作例2]()  
+[ブログ作例1]()  
+[ブログ作例1]()  
+
+## 掲載情報
+
+[ラズパイマガジンXX年Y月号]()  
+[Pc Watch]()
+
+## 製品仕様
     【対応OS】Windows7以降
     【サイズ】W16×D20×H5mm
     【重量】約1g
