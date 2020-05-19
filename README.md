@@ -18,13 +18,13 @@ USBインターフェースの入力処理や設定を全てこのモジュー�
 ### [ファームウェアソースはこちら](https://github.com/bit-trade-one/ADRVMIC-REVIVE-USB-Micro/raw/master/Firmware_source/ReviveMicro_FW_ver001.zip)
 
 ## 基本仕様
-【対応OS】Windows7以降
-【サイズ】W16×D20×H5mm
-【重量】約1g
-【入力点数】12(デジタル)
-【コネクタ】USBマイクロB
-【電源】5V (USBマイクロB)
-【使用温度】0 ～ 40℃（結露なきこと）
-【保証期間】 1年間
-【付属品】保証書 1部
-【生産国】Made in Japan
+    【対応OS】Windows7以降
+    【サイズ】W16×D20×H5mm
+    【重量】約1g
+    【入力点数】12(デジタル)
+    【コネクタ】USBマイクロB
+    【電源】5V (USBマイクロB)
+    【使用温度】0 ～ 40℃（結露なきこと）
+    【保証期間】 1年間
+    【付属品】保証書 1部
+    【生産国】Made in Japan
