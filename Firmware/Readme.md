@@ -1,3 +1,8 @@
+# ファイルリスト
+
+ - REVIVE_MICRO.zip(通常版)
+ - REVIVE_MATRIX.zip(マトリックス版)
+
 # REVIVE USB MICROファームウェア
 
 REVIVE USB MICROのファームウェアとソースコードを公開しています。  
