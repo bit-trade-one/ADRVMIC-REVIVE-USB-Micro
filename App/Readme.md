@@ -1,3 +1,10 @@
+# ファイルリスト
+
+ - Revive_Micro_CT.exe(通常版)
+ - Revive_Micro_CT_en.exe(通常版・英語)
+ - Revive_Micro_MATRIX_CT.exe(マトリックス版)
+ - Revive_Micro_MATRIX_CT_en.exe(マトリックス版・英語)
+
 # REVIVE USB MICRO Configuration Toolの使い方
 
 ## 1. 概要
