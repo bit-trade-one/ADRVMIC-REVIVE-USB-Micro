@@ -9,13 +9,13 @@ USBインターフェースの入力処理や設定を全てこのモジュー�
 
 ## [製品の詳細はこちら](http://bit-trade-one.co.jp/adrvmic/) 
 
-## [アプリケーションソフトはこちら](https://github.com/bit-trade-one/ADRVMIC-REVIVE-USB-Micro/raw/master/App/Revive_Micro_CT.exe)  
+## [アプリケーションソフトはこちら](https://github.com/bit-trade-one/ADRVMIC-REVIVE-USB-Micro/raw/master/App/)  
 
-## [ファームウェアはこちら](https://github.com/bit-trade-one/ADRVMIC-REVIVE-USB-Micro/raw/master/Firmware/REVIVE_MICRO.zip)
+## [ファームウェアはこちら](https://github.com/bit-trade-one/ADRVMIC-REVIVE-USB-Micro/raw/master/Firmware/)
 
-### [アプリケーションソースはこちら](https://github.com/bit-trade-one/ADRVMIC-REVIVE-USB-Micro/raw/master/App_source/ReviveMicro_CT_ver110.zip)  
+### [アプリケーションソースはこちら](https://github.com/bit-trade-one/ADRVMIC-REVIVE-USB-Micro/raw/master/App_source/)  
 
-### [ファームウェアソースはこちら](https://github.com/bit-trade-one/ADRVMIC-REVIVE-USB-Micro/raw/master/Firmware_source/ReviveMicro_FW_ver001.zip)
+### [ファームウェアソースはこちら](https://github.com/bit-trade-one/ADRVMIC-REVIVE-USB-Micro/raw/master/Firmware_source/)
 
 ## 作例
 
