@@ -27,8 +27,8 @@ USBインターフェースの入力処理や設定を全てこのモジュー�
 
 ## 作例
 
-[格ゲーでいろいろアレなヤツを作ってみる（Bit-trade-one）](https://bit-trade-one.co.jp/blog/20190802/){:target="_blank"}  
-[Twitter作例1]()  
+[格ゲーでいろいろアレなヤツを作ってみる（Bit-trade-one）](https://bit-trade-one.co.jp/blog/20190802/)
+[自分だけのオリジナルUSBコントローラが作れる「REVIVE USB Micro」で変なの作ってみた（PC-watch）]()  
 [Twitter作例2]()  
 [ブログ作例1]()  
 [ブログ作例1]()  
