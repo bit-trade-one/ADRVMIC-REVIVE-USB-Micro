@@ -27,7 +27,7 @@ USBインターフェースの入力処理や設定を全てこのモジュー�
 
 ## 作例
 
-[格ゲーでいろいろアレなヤツを作ってみる（Bit-trade-one）](https://bit-trade-one.co.jp/blog/20190802/)  
+[格ゲーでいろいろアレなヤツを作ってみる（Bit-trade-one）](https://bit-trade-one.co.jp/blog/20190802/){:target="_blank"}  
 [Twitter作例1]()  
 [Twitter作例2]()  
 [ブログ作例1]()  
