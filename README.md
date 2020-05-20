@@ -13,6 +13,8 @@ USBインターフェースの入力処理や設定を全てこのモジュー�
 
 ## [ファームウェアはこちら](https://github.com/bit-trade-one/ADRVMIC-REVIVE-USB-Micro/raw/master/Firmware/)
 
+## [Q&A](https://github.com/bit-trade-one/ADRVMIC-REVIVE-USB-Micro/blob/master/FAQ.md)
+
 ### [アプリケーションソースはこちら](https://github.com/bit-trade-one/ADRVMIC-REVIVE-USB-Micro/raw/master/App_source/)  
 
 ### [ファームウェアソースはこちら](https://github.com/bit-trade-one/ADRVMIC-REVIVE-USB-Micro/raw/master/Firmware_source/)
