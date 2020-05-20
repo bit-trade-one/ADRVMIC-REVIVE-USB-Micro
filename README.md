@@ -27,7 +27,7 @@ USBインターフェースの入力処理や設定を全てこのモジュー�
 
 ## 作例
 
-[BTO公式]()  
+[格ゲーでいろいろアレなヤツを作ってみる（Bit-trade-one）](https://bit-trade-one.co.jp/blog/20190802/)  
 [Twitter作例1]()  
 [Twitter作例2]()  
 [ブログ作例1]()  
