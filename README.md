@@ -29,14 +29,9 @@ USBインターフェースの入力処理や設定を全てこのモジュー�
 
 [格ゲーでいろいろアレなヤツを作ってみる（Bit-trade-one）](https://bit-trade-one.co.jp/blog/20190802/)  
 [自分だけのオリジナルUSBコントローラが作れる「REVIVE USB Micro」で変なの作ってみた（PC-watch）](https://pc.watch.impress.co.jp/docs/column/tool/1200128.html)  
-[Twitter作例2]()  
-[ブログ作例1]()  
-[ブログ作例1]()  
 
-## 掲載情報
+## 雑誌掲載情報
 
-[ラズパイマガジンXX年Y月号]()  
-[Pc Watch]()
 
 ## 製品仕様
     【対応OS】Windows7以降
