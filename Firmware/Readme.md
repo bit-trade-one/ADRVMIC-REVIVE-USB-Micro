@@ -6,9 +6,10 @@
 
 # REVIVE USB MICROファームウェア
 
-REVIVE USB MICROのファームウェアとソースコードを公開しています。 
+REVIVE USB MICROのファームウェアと、Microchip社の  
+ファームウェア書込ツールを公開しています。 
 
-## HIDブートローダ書き込みソフト（HIDBootLoader.exe）の使い方
+## ファームウェア書込ツール（HIDBootLoader.exe）の使い方
 
 ### 1. このソフトで何が出来るのか
 
