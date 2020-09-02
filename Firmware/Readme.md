@@ -3,7 +3,14 @@
  - REVIVE_MICRO.zip(通常版)
  - REVIVE_MATRIX.zip(マトリックス版)
  - HIDBootLoader.exe(ファームウェア書込ツール)
-
+ - iOS
+   - REVIVE_MICRO_v001i.zip(iOS対応・通常版)
+   - REVIVE_Micro_MATRIX_v002i.zip(iOS対応・マトリックス版)
+   
+**iOS版を使用する場合は、専用のPCツールが必要になります。**  
+**iOS版はキーボードのみ対応となります。マウス・ジョイパッドについては設定は可能ですが動作しません。**  
+**iOS版につきましては暫定対応となり、すべてのiOSバージョン/デバイスにおいて動作を保証するものではありません。**
+   
 # REVIVE USB MICROファームウェア
 
 REVIVE USB MICROのファームウェアと、Microchip社の  
