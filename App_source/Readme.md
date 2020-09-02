@@ -4,6 +4,9 @@
  - ReviveMicro_CT_v110en.zip(通常版・英語)
  - ReviveMicro_CTMatrix_v110.zip(マトリックス版)
  - ReviveMicro_CTMatrix_v110en.zip(マトリックス版・英語)
+ - iOS
+   - ReviveMicro_CT_ver200_20200828.zip(iOS対応・通常版)
+   - ReviveMicro_CTMatrix_v200_20200828.zip(iOS対応・マトリックス版)
 
 # REVIVE USB MICRO設定ツール開発環境
 
