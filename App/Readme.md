@@ -4,6 +4,12 @@
  - Revive_Micro_CT_en.exe(通常版・英語)
  - Revive_Micro_MATRIX_CT.exe(マトリックス版)
  - Revive_Micro_MATRIX_CT_en.exe(マトリックス版・英語)
+ - iOS
+    - Revive_Micro_CT_v200.exe(iOS対応・通常版)
+    - Revive_Micro_MATRIX_CT_v200.exe(iOS対応・マトリックス版)
+
+**iOS版を使用する場合は、REVIVE Micro本体のファームウェアの書き換えが必要になります。**  
+**iOS版はキーボードのみ対応となります。マウス・ジョイパッドについては設定は可能ですが動作しません。**
 
 # REVIVE USB MICRO Configuration Toolの使い方
 
