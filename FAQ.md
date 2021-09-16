@@ -73,3 +73,10 @@
 ![](https://raw.githubusercontent.com/bit-trade-one/ADRVMIC-REVIVE-USB-Micro/master/image/REVIVE%E4%BA%8C%E9%87%8D%E5%8C%96%E5%8F%82%E8%80%83%E5%9B%9E%E8%B7%AF.png)
 
 ----
+
+## Q: マルチメディア機能の音量調節やスリープボタンなどに設定はできますか？  
+
+### A: 出来ません。
+基本的なキー+Ctrl,Shift,Alt,Winいずれかの同時押しは可能ですがそれ以外は不可能です。  
+
+----
