@@ -1,7 +1,8 @@
 # ファイルリスト
 
+ - ReviveMicroEx_FW_ver100_20210317)(通常版Rev2、エンコーダ・対チャタリング機能搭載)
  - ReviveMicro_FW_ver001.zip(通常版)
- - ReviveMicro_FW_MAT_ver001.zip(マトリックス版)
+ - ReviveMicro_FW_MAT_ver002_20200605Fix.zip(マトリックス版)
 
 
 # REVIVE USB MICROファームウェアソースコード
