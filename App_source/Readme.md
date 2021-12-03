@@ -1,5 +1,7 @@
 # ファイルリスト
 
+ - ReviveMicroEx_CT_ver300_20210317(通常版Rev2、エンコーダ・対チャタリング機能搭載)
+ - ReviveMicroEx_CT_ver300en_20210317(通常版Rev2・英語、エンコーダ・対チャタリング機能搭載)
  - ReviveMicro_CT_v110.zip(通常版)
  - ReviveMicro_CT_v110en.zip(通常版・英語)
  - ReviveMicro_CTMatrix_v110.zip(マトリックス版)
