@@ -1,7 +1,7 @@
 # ファイルリスト
 
- - Revive_Micro_CT_Ex.exe(通常版)
- - Revive_Micro_CT_Ex_en.exe(通常版・英語)
+ - Revive_Micro_CT_Ex_v310.exe(通常版)
+ - Revive_Micro_CT_Ex_en_v310.exe(通常版・英語)
  - Revive_Micro_MATRIX_CT.exe(マトリックス版)
  - Revive_Micro_MATRIX_CT_en.exe(マトリックス版・英語)
  - iOS
