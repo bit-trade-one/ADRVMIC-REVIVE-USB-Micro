@@ -1,6 +1,6 @@
 # ファイルリスト
 
- - REVIVE_MICRO.zip(通常版)　※2021/12/03 ロータリーエンコーダ＆チャタリング防止対応版更新
+ - REVIVE_MICRO_Ex_v100.zip(通常版)　※2021/12/03 ロータリーエンコーダ＆チャタリング防止対応版更新
  - REVIVE_MATRIX.zip(マトリックス版)
  - HIDBootLoader.exe(ファームウェア書込ツール)
  - iOS
