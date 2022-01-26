@@ -80,3 +80,8 @@
 基本的なキー+Ctrl,Shift,Alt,Winいずれかの同時押しは可能ですがそれ以外は不可能です。  
 
 ----
+## Q: MACのCommand(⌘)、Option（⌥）キーを入力したいです。
+
+### A: Windows用キーボードをMacで使うと、Windows(❖)キーがMacのCommand(⌘)キー、altキーがMacのOption（⌥）キーに対応します。
+----
+
