@@ -69,5 +69,5 @@ USBケーブルを抜き差しすると、書き込んだソフトが起動し�
 
 ### EX もしbootモード設定が上手くいかない・間違えてしまった場合には
 
-![](https://bit-trade-one.co.jp/wp/wp-content/uploads/2022/02/aur_pin.png)
+![](https://bit-trade-one.co.jp/wp/wp-content/uploads/2022/02/aur_pin.png)  
 画像の赤丸に囲まれている中央のピンとGNDを接続することで強制的にBootモードへ移行できます。
