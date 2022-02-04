@@ -67,3 +67,7 @@ HIDBootLoader.exeを立ち上げます。
 ![](http://bit-trade-one.co.jp/wp/wp-content/uploads/2019/06/05Program.png)  
 USBケーブルを抜き差しすると、書き込んだソフトが起動します。  
 
+### EX もしbootモード設定が上手くいかない・間違えてしまった場合には
+
+![](https://bit-trade-one.co.jp/wp/wp-content/uploads/2022/02/aur_pin.png)
+画像の赤丸に囲まれている中央のピンとGNDを接続することで強制的にBootモードへ移行できます。
