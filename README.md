@@ -3,7 +3,7 @@
 # [エンコーダ読み取り/チャタリング対策機能を搭載したRev.2の情報はこちら！](https://github.com/bit-trade-one/ADRVMICR2-REVIVE-USB-Micro-Rev2)
 
 # *このリポジトリでは旧製品"ADRVMIC REVIVE USB Micro"の情報を掲載しています。*  
-# *最新の情報は上記のRev.2のリポジトリからご確認ください。*
+# *各種仕様について、最新の情報は上記のRev.2のリポジトリからご確認ください。*
   
   
   
