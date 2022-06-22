@@ -11,7 +11,7 @@ REVIVEMicro1の基本的なバージョンです。
 > コチラは高機能なREV2用のファームウェアが公開されており、REV1機体にも書き込むことも可能です。  
 > [REV2用のサポートサイト](https://bit-trade-one.github.io/ADRVMICR2-REVIVE-USB-Micro-Rev2/)をご覧ください。 
 
-### [マトリックス版]() / [マトリックス版 EnglishVersion]()
+### [マトリックス版](Matrix.md) / [マトリックス版 EnglishVersion]()
 REVIVEMicroのマトリックス接続可なバージョンです。  
 最大36個のボタンを接続できます。  
 キーボード・マウス・ゲームパッドとして振る舞えます。  
