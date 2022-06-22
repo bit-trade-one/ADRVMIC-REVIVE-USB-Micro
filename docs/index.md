@@ -1,7 +1,7 @@
 [![BTO-logo](https://bit-trade-one.co.jp/wp/wp-content/uploads/2022/05/logo.png)](https://bit-trade-one.co.jp/)
 
 
-## 目的別ダウンロード・使用方法
+## ダウンロード・使用方法
 
 ### [通常版]() / [通常版 EnglishVersion]()
 REVIVEMicro1の基本的なバージョンです。 
