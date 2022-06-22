@@ -13,7 +13,7 @@ REVIVE-USB-Micro-Rev1は販売時コチラのファームウェアは書き込�
 
 ---
 
-# マトリックス版ダウンロード
+# iOSマトリックス版ダウンロード
 ### [iOSマトリックス版設定ツールダウンロードリンク(v200)](https://github.com/bit-trade-one/ADRVMICR2-REVIVE-USB-Micro-Rev2/raw/master/App/iOS/Revive_Micro_MATRIX_CT_v200.exe)
 [過去バージョン一覧](https://github.com/bit-trade-one/ADRVMICR2-REVIVE-USB-Micro-Rev2/tree/master/App/iOS)
 
