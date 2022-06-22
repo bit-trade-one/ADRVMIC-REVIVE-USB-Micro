@@ -10,7 +10,7 @@ The method is [Firmware writing method](https://bit-trade-one.github.io/ADRVMIC-
 
 ---
 
-# Matrix version download
+# download
 ### [Matrix version setting tool EN download link](https://github.com/bit-trade-one/ADRVMICR2-REVIVE-USB-Micro-Rev2/raw/master/App/Matrix/Revive_Micro_MATRIX_CT_en.exe)
 [Past version list](https://github.com/bit-trade-one/ADRVMICR2-REVIVE-USB-Micro-Rev2/tree/master/App/Matrix)
 
