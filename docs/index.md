@@ -3,7 +3,7 @@
 
 ## ダウンロード・使用方法
 
-### [通常版](Rev1.md) / [通常版 EnglishVersion](https://bit--trade--one-github-io.translate.goog/ADRVMIC-REVIVE-USB-Micro/Rev1.html?_x_tr_sl=ja&_x_tr_tl=en&_x_tr_hl=ja&_x_tr_pto=wapp)
+### [通常版](Rev1.md) / [通常版 EnglishVersion](Rev1EN.md)
 REVIVEMicro1の基本的なバージョンです。 
 ボタンを接続でき、  
 キーボード・マウス・ゲームパッドとして振る舞えます。  
