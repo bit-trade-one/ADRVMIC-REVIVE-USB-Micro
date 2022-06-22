@@ -34,22 +34,28 @@ REVIVE-USB-Micro-Rev1は販売時コチラのファームウェアが書き込�
 ## 1. ダウンロード
 
 上記のダウンロードリンクをクリックすると自動的にダウンロードされます。
-![image]()
+![image](https://user-images.githubusercontent.com/85532743/174980131-56e51352-1579-4d77-95c0-025a3aa4913d.png)
 
 PCの任意の場所にファイルをダウンロードした後、解凍してください。
 
 ## 2. 設定ツール使用方法
 
 解凍したexeファイルを起動すると設定画面が開きます。
-![image]()
+![image](https://user-images.githubusercontent.com/85532743/174980583-ea6dfaae-626b-4098-9e9e-e9c3d059f485.png)
+
+REVIVE-USB-Microをつなぐと設定が行えるようになります。 
+繋いでも有効にならない場合は間違えた設定ツールとファームウェアの組み合わせである可能性があります。 再度ご確認ください。  
+![image](https://user-images.githubusercontent.com/85532743/174980554-d72d9647-8063-49d0-807e-00fc18d313f3.png)
+
+
 
 ## 3 プログラマブルキー割り当て
 
 12個のキーそれぞれにマウス/キーボード/ジョイパッドの機能を割り当てることが出来ます。
 
 画面左側よりスイッチ番号/デバイスタイプ/割当て を選択後、  
-設定ボタンを押すとBFU2Sに設定が書き込まれます。
-![image]()
+設定ボタンを押すとREVIVE-USB-Microに設定が書き込まれます。
+![image](https://user-images.githubusercontent.com/85532743/174980845-6f180306-0706-410c-a7ed-319e6f9f9b55.png)
 
 
 ## 4 マウス
@@ -110,11 +116,11 @@ CTRL + ALT + DELが入力できるようになります。
 - __必要なファームウェアを任意の場所にダウンロードしてください。__  
   
 ## 2. ファームウェア書き込み
-- __設定ツール右下、ファームウェアアップデートよりBOOTモードにします。__  
-![image]()  
+- __設定ツール右下、UpdateボタンよりBOOTモードにします。__  
+![image](https://user-images.githubusercontent.com/85532743/174981162-b00eb6e4-f26f-4c3c-a2ea-da92614e68cf.png)
 
 - __ファームウェアの書き換えウィンドウで「はい」を選択してください。本体がBOOTモードに入ります。__    
-![image]()  
+![image](https://user-images.githubusercontent.com/85532743/174981209-45d1906a-5d3f-4984-b0d4-076718c2c9b6.png)
 
 - __先程ダウンロードしたHIDBootLoader.exeを立ち上げてください。__    
 ![image](https://user-images.githubusercontent.com/85532743/170158526-76b20a94-d8ee-4429-b6af-8e27f3d92fe6.png)  
