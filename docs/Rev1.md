@@ -14,14 +14,14 @@ REVIVE-USB-Micro-Rev1は販売時コチラのファームウェアが書き込�
 ---
 
 # 通常版ダウンロード
-### [通常版設定ツールダウンロードリンク(Ver.)]()
-[過去バージョン一覧]()
+### [通常版設定ツールダウンロードリンク(v310)](https://github.com/bit-trade-one/ADRVMICR2-REVIVE-USB-Micro-Rev2/raw/master/App/Rev1/Revive_Micro_CT.exe)
+[過去バージョン一覧](https://github.com/bit-trade-one/ADRVMIC-REVIVE-USB-Micro/tree/master/App/old)
 
 ピンの割当などを行う設定ツールです。
 本設定ツールはWindowsPCにて動作します。
 
-### [通常版ファームウェアダウンロードリンク(Ver.)]()
-[過去バージョン一覧]()  
+### [通常版ファームウェアダウンロードリンク(v001)](https://github.com/bit-trade-one/ADRVMICR2-REVIVE-USB-Micro-Rev2/raw/master/Firmware/Rev1/REVIVE_MICRO_v001.zip)
+[過去バージョン一覧](https://github.com/bit-trade-one/ADRVMICR2-REVIVE-USB-Micro-Rev2/tree/master/Firmware/Rev1)  
 
 ファームウェアはハードウェアの中に書き込まれているソフトウェアです。  
 不具合修正や機能追加された新しいファームウェアが公開された際、   
