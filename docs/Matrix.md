@@ -6,7 +6,7 @@
 
 REVIVE-USB-Micro-Rev1は販売時コチラのファームウェアは書き込まれていないため、  
 使用する前にREVIVE-USB-Microに書き込む必要があります。  
-方法は[ファームウェア書き込み方法](Rev1.md#ファームウエア書き換え方法) をご覧ください
+方法は[ファームウェア書き込み方法](https://bit-trade-one.github.io/ADRVMIC-REVIVE-USB-Micro/Rev1.html#%E3%83%95%E3%82%A1%E3%83%BC%E3%83%A0%E3%82%A6%E3%82%A8%E3%82%A2%E6%9B%B8%E3%81%8D%E6%8F%9B%E3%81%88%E6%96%B9%E6%B3%95) をご覧ください
 
 ---
 
