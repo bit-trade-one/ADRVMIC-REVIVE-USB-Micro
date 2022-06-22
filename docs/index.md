@@ -3,10 +3,13 @@
 
 ## 目的別ダウンロード・使用方法
 
-### [通常版1]() / [通常版1 EnglishVersion]()
-REVIVEMicroの通常バージョンです。  
+### [通常版]() / [通常版 EnglishVersion]()
+REVIVEMicro1の基本的なバージョンです。 
 ボタンを接続でき、  
 キーボード・マウス・ゲームパッドとして振る舞えます。  
+
+> コチラは高機能なREV2用のファームウェアが公開されており、REV1機体にも書き込むことも可能です。  
+> [REV2用のサポートサイト](https://bit-trade-one.github.io/ADRVMICR2-REVIVE-USB-Micro-Rev2/)をご覧ください。 
 
 ### [マトリックス版]() / [マトリックス版 EnglishVersion]()
 REVIVEMicroのマトリックス接続可なバージョンです。  
@@ -22,9 +25,6 @@ REVIVEMicroのiOS対応 暫定版です
 REVIVEMicroのiOS対応マトリックス接続可 暫定版です 。 
 最大36個のボタンを接続できます。  
 キーボードとして振る舞えます。  
-
-> REV2用のファームウェアを書き込むことも可能です。  
-> [REV2用のサポートサイト](https://bit-trade-one.github.io/ADRVMICR2-REVIVE-USB-Micro-Rev2/)をご覧ください。 
 
 ## ファームウェア
 ### [ファームウェア書き換え方法]()
