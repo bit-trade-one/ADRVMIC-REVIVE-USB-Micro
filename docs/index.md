@@ -55,6 +55,7 @@ REVIVEMicro内で動くソフトウェアがファームウェアです
 ## リンク
 - [REVIVEMicro HPリンク](http://bit-trade-one.co.jp/adrvmic/) 
 - [お問い合わせ](https://bit-trade-one.co.jp/contactus/)
+
 ## 作例
 
 - [ミニUSB MIDIキーボードを作ってみた（Bit-trade-one）](./REVIVE_MIDI_USB/Readme.md)  
