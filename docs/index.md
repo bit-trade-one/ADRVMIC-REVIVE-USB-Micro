@@ -23,8 +23,8 @@ REVIVEMicroのiOS対応マトリックス接続可 暫定版です 。
 最大36個のボタンを接続できます。  
 キーボードとして振る舞えます。  
 
-REV2用のファームウェアを書き込むことも可能です。  
-[REV2用のサポートサイト](https://bit-trade-one.github.io/ADRVMICR2-REVIVE-USB-Micro-Rev2/)をご覧ください。 
+> REV2用のファームウェアを書き込むことも可能です。  
+> [REV2用のサポートサイト](https://bit-trade-one.github.io/ADRVMICR2-REVIVE-USB-Micro-Rev2/)をご覧ください。 
 
 ## ファームウェア
 ### [ファームウェア書き換え方法]()
