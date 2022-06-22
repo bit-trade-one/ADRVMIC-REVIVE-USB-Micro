@@ -1,37 +1,68 @@
-## Welcome to GitHub Pages
+[![BTO-logo](https://bit-trade-one.co.jp/wp/wp-content/uploads/2022/05/logo.png)](https://bit-trade-one.co.jp/)
 
-You can use the [editor on GitHub](https://github.com/bit-trade-one/ADRVMIC-REVIVE-USB-Micro/edit/master/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 目的別ダウンロード・使用方法
 
-### Markdown
+### [通常旧版]() / [通常旧版 EnglishVersion]()
+REVIVEMicroの旧バージョンです。  
+ボタンを接続でき、  
+キーボード・マウス・ゲームパッドとして振る舞えます。  
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### [マトリックス版]() / [マトリックス版 EnglishVersion]()
+REVIVEMicroのマトリックス接続可なバージョンです。  
+最大36個のボタンを接続できます。  
+キーボード・マウス・ゲームパッドとして振る舞えます。  
 
-```markdown
-Syntax highlighted code block
+### [iOS版]()
+REVIVEMicroのiOS対応 暫定版です  
+最大36個のボタンを接続できます。  
+キーボードとして振る舞えます。    
 
-# Header 1
-## Header 2
-### Header 3
+### [iOSマトリックス版]()
+REVIVEMicroのiOS対応マトリックス接続可 暫定版です 。 
+最大36個のボタンを接続できます。  
+キーボードとして振る舞えます。  
 
-- Bulleted
-- List
+REV2用のファームウェアを書き込むことも可能です。  
+[REV2用のサポートサイト](https://bit-trade-one.github.io/ADRVMICR2-REVIVE-USB-Micro-Rev2/)をご覧ください。 
 
-1. Numbered
-2. List
+## ファームウェア
+### [ファームウェア書き換え方法]()
 
-**Bold** and _Italic_ and `Code` text
+---
 
-[Link](url) and ![Image](src)
-```
+## 系統図
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+### 設定時系統図
+![設定ツール系統図](https://user-images.githubusercontent.com/85532743/174945836-e603b908-46bf-4eb9-8db1-82bb0caa2909.png)
+WINDOWS PCで動くソフトウェアが設定ツールで  
+REVIVEMicro内で動くソフトウェアがファームウェアです
 
-### Jekyll Themes
+### 使用時系統図
+![使用時系統図](https://user-images.githubusercontent.com/85532743/174945821-9a844334-d9fa-4c1a-ada5-843ba585ac60.png)
+使用時はキーボード・マウス・ゲームパッドとして振る舞います。  
+ピン割当はREVIVEMicro本体に保存されます。
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bit-trade-one/ADRVMIC-REVIVE-USB-Micro/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+---
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## よくある質問
+- [Q&A](https://github.com/bit-trade-one/ADRVMICR2-REVIVE-USB-Micro-Rev2/blob/master/FAQ.md)  
+
+## 設計データ
+- [回路図](https://github.com/bit-trade-one/ADRVMICR2-REVIVE-USB-Micro-Rev2/blob/master/Schematics/REVIVE-USB-MICRO-Schematics.pdf)  
+- [基板図](https://github.com/bit-trade-one/ADRVMICR2-REVIVE-USB-Micro-Rev2/blob/master/Dimensions/REVIVE-USB-MICRO-Dimensions.pdf)  
+
+## リンク
+- [REVIVEMicro HPリンク](http://bit-trade-one.co.jp/adrvmic/) 
+
+## 作例
+
+- [ミニUSB MIDIキーボードを作ってみた（Bit-trade-one）](./REVIVE_MIDI_USB/Readme.md)  
+- [格ゲーでいろいろアレなヤツを作ってみる（Bit-trade-one）](https://bit-trade-one.co.jp/blog/20190802/)  
+- [自分だけのオリジナルUSBコントローラが作れる「REVIVE USB Micro」で変なの作ってみた（PC-watch）](https://pc.watch.impress.co.jp/docs/column/tool/1200128.html)  
+- [REVIVE USB †MICRO†を使ったスティックアダプタの製作（しおんパパのひみつきち）](https://sions-papa.blogspot.com/2019/11/revive-usb-micro2019.html)  
+
+## 雑誌掲載情報  
+
+- [工学社 I/O 2019年10月号](http://www.kohgakusha.co.jp/books/detail/4579)  
