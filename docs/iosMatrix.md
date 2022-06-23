@@ -21,7 +21,7 @@ REVIVE-USB-Micro-Rev1は販売時コチラのファームウェアは書き込�
 本設定ツールはWindowsPCにて動作します。
 
 ### [iOSマトリックス版ファームウェアダウンロードリンク(v002i)](https://github.com/bit-trade-one/ADRVMICR2-REVIVE-USB-Micro-Rev2/raw/master/Firmware/iOS/REVIVE_Micro_MATRIX_v002i.zip)
-[過去バージョン一覧](https://github.com/bit-trade-one/ADRVMICR2-REVIVE-USB-Micro-Rev2/raw/master/App/iOS/Revive_Micro_CT_v200.exe)  
+[過去バージョン一覧](https://github.com/bit-trade-one/ADRVMICR2-REVIVE-USB-Micro-Rev2/tree/master/Firmware/iOS)  
 
 ファームウェアはハードウェアの中に書き込まれているソフトウェアです。  
 不具合修正や機能追加された新しいファームウェアが公開された際、   
