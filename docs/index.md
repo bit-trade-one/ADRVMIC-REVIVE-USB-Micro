@@ -1,5 +1,10 @@
 [![BTO-logo](https://bit-trade-one.co.jp/wp/wp-content/uploads/2022/05/logo.png)](https://bit-trade-one.co.jp/)
 
+## Revive USB Micro 無印/Rev.2について  
+Revive USB Microには無印版とRev.2版が存在します。  
+ハードウェアに違いはなく、Rev.2は出荷時に予めより高機能なファームウェアが書き込まれたリニューアル版となります。  
+無印版に同等のファームウェアを書き込んだ場合、機能に差はありません。  
+[Rev.2のサポートサイト](https://bit-trade-one.github.io/ADRVMICR2-REVIVE-USB-Micro-Rev2/)
 
 ## ダウンロード・使用方法
 
