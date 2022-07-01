@@ -4,7 +4,10 @@
 マトリックス版設定ツールと  
 マトリックス版ファームウェアが書き込まれたREVIVE-USB-Microが必要です  
 
-REVIVE-USB-Micro-Rev1は販売時コチラのファームウェアは書き込まれていないため、  
+REVIVE USB MICROマトリクスブレイクアウトボードには
+販売時コチラのファームウェアが書き込まれています。
+
+それ以外のREVIVE-USB-Microは販売時コチラのファームウェアは書き込まれていないため、  
 使用する前にREVIVE-USB-Microに書き込む必要があります。  
 方法は[ファームウェア書き込み方法](https://bit-trade-one.github.io/ADRVMIC-REVIVE-USB-Micro/Rev1.html#%E3%83%95%E3%82%A1%E3%83%BC%E3%83%A0%E3%82%A6%E3%82%A8%E3%82%A2%E6%9B%B8%E3%81%8D%E6%8F%9B%E3%81%88%E6%96%B9%E6%B3%95) をご覧ください
 
