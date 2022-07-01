@@ -1,12 +1,6 @@
 # ADRVMIC-REVIVE-USB-Micro
-
-# [エンコーダ読み取り/チャタリング対策機能を搭載したRev.2の情報はこちら！](https://github.com/bit-trade-one/ADRVMICR2-REVIVE-USB-Micro-Rev2)
-
-# *このリポジトリでは旧製品"ADRVMIC REVIVE USB Micro"の情報を掲載しています。*  
-# *各種仕様について、最新の情報は上記のRev.2のリポジトリからご確認ください。*
-  
-  
-  
+エンコーダ読み取り/チャタリング対策機能を搭載したRev.2や、マトリクス版・ios版の最新ファイルはRev.2レポジトリにて管理しています。
+ [Rev.2の情報はこちら](https://github.com/bit-trade-one/ADRVMICR2-REVIVE-USB-Micro-Rev2)
   
 ## 弊社ベストセラー製品が驚異の小型化！
 
@@ -15,23 +9,10 @@
 簡単にオリジナルUSBデバイスを製作できるモジュールです。ピンにスイッチを接続するだけでユーザーに敷居の高い  
 USBインターフェースの入力処理や設定を全てこのモジュールが対応します。
 
-## [製品の詳細はこちら](http://bit-trade-one.co.jp/adrvmic/) 
+## [製品HP](http://bit-trade-one.co.jp/adrvmic/) 
 
-## [アプリケーションソフトはこちら](https://github.com/bit-trade-one/ADRVMIC-REVIVE-USB-Micro/raw/master/App/)  
+## [ファイルダウンロード・説明サイト](https://bit-trade-one.github.io/ADRVMIC-REVIVE-USB-Micro/)  
 
-## [ファームウェアはこちら](https://github.com/bit-trade-one/ADRVMIC-REVIVE-USB-Micro/raw/master/Firmware/)
-
-## [Q&A](https://github.com/bit-trade-one/ADRVMIC-REVIVE-USB-Micro/blob/master/FAQ.md)
-
-### [アプリケーションソースはこちら](https://github.com/bit-trade-one/ADRVMIC-REVIVE-USB-Micro/raw/master/App_source/)  
-
-### [ファームウェアソースはこちら](https://github.com/bit-trade-one/ADRVMIC-REVIVE-USB-Micro/raw/master/Firmware_source/)
-
-### [基板図](https://github.com/bit-trade-one/ADRVMIC-REVIVE-USB-Micro/blob/master/Dimensions/REVIVE-USB-MICRO-Dimensions.pdf)
-
-### [回路図](https://github.com/bit-trade-one/ADRVMIC-REVIVE-USB-Micro/blob/master/Schematics/REVIVE-USB-MICRO-Schematics.pdf)
-
-### [部品表](https://github.com/bit-trade-one/ADRVMIC-REVIVE-USB-Micro/blob/master/Partslist/ADRVMIC-Partslist.md)
 
 ## 作例
 
