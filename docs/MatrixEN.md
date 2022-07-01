@@ -4,6 +4,8 @@ When using the matrix version
 With the matrix version setting tool
 Requires REVIVE-USB-Micro with matrix firmware written
 
+The firmware here is written on the REVIVE USB MICRO matrix breakout board at the time of sale.
+
 REVIVE-USB-Micro-Rev1 is here because the firmware is not written at the time of sale.
 Must be written to REVIVE-USB-Micro before use.
 The method is [Firmware writing method](https://bit-trade-one.github.io/ADRVMIC-REVIVE-USB-Micro/Rev1.html#%E3%83%95%E3%82%A1%E3%83%BC%E3%83%A0%E3%82%A6%E3%82%A8%E3%82%A2%E6%9B%B8%E3%81%8D%E6%8F%9B%E3%81%88%E6%96%B9%E6%B3%95)  for the method.
