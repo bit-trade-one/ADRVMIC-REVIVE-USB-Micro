@@ -13,17 +13,6 @@ USBインターフェースの入力処理や設定を全てこのモジュー�
 
 ## [ファイルダウンロード・説明サイト](https://bit-trade-one.github.io/ADRVMIC-REVIVE-USB-Micro/)  
 
-
-## 作例
-
-[格ゲーでいろいろアレなヤツを作ってみる（Bit-trade-one）](https://bit-trade-one.co.jp/blog/20190802/)  
-[自分だけのオリジナルUSBコントローラが作れる「REVIVE USB Micro」で変なの作ってみた（PC-watch）](https://pc.watch.impress.co.jp/docs/column/tool/1200128.html)  
-[REVIVE USB †MICRO†を使ったスティックアダプタの製作（しおんパパのひみつきち）](https://sions-papa.blogspot.com/2019/11/revive-usb-micro2019.html)  
-
-## 雑誌掲載情報  
-
-[工学社 I/O 2019年10月号](http://www.kohgakusha.co.jp/books/detail/4579)  
-
 ## 製品仕様
     【対応OS】Windows7以降
     【サイズ】W16×D20×H5mm
