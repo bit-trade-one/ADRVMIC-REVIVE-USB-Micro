@@ -1,5 +1,6 @@
 # ADRVMIC-REVIVE-USB-Micro
-エンコーダ読み取り/チャタリング対策機能を搭載したRev.2や、マトリクス版・ios版の最新ファイルはRev.2レポジトリにて管理しています。
+エンコーダ読み取り/チャタリング対策機能を搭載したRev.2や、マトリクス版・ios版の  
+最新ファイルはRev.2レポジトリにて管理しています。
  [Rev.2の情報はこちら](https://github.com/bit-trade-one/ADRVMICR2-REVIVE-USB-Micro-Rev2)  
  今後このレポジトリに新しいファイルが加わることはありません。  
   
