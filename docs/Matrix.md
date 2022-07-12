@@ -20,7 +20,7 @@ REVIVE USB MICROマトリクスブレイクアウトボードには
 ピンの割当などを行う設定ツールです。
 本設定ツールはWindowsPCにて動作します。
 
-### [マトリックス版ファームウェアダウンロードリンク](https://github.com/bit-trade-one/ADRVMICR2-REVIVE-USB-Micro-Rev2/raw/master/Firmware/Matrix/REVIVE_MATRIX.zip)
+### [マトリックス版ファームウェアダウンロードリンク(v003)](https://github.com/bit-trade-one/ADRVMICR2-REVIVE-USB-Micro-Rev2/raw/master/Firmware/Matrix/REVIVE_Micro_MATRIX_v003.zip)
 [過去バージョン一覧](https://github.com/bit-trade-one/ADRVMICR2-REVIVE-USB-Micro-Rev2/tree/master/Firmware/Matrix)  
 
 ファームウェアはハードウェアの中に書き込まれているソフトウェアです。  
