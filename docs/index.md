@@ -8,7 +8,7 @@ Revive USB Microには無印版とRev.2版が存在します。
 
 ## ダウンロード・使用方法
 
-### [通常版](Rev1.md) / [通常版 EnglishVersion](Rev1EN.md)
+### [通常版](Rev1.md) / [Normal Edition EnglishVersion](Rev1EN.md)
 REVIVEMicroの基本的なバージョンです。 
 ボタンを接続でき、  
 キーボード・マウス・ゲームパッドとして振る舞えます。  
@@ -16,7 +16,7 @@ REVIVEMicroの基本的なバージョンです。
 > コチラは高機能なRev.2用の新ファームウェアが公開されており、無印機体にも書き込むことも可能です。  
 > [Rev.2用のサポートサイト](https://bit-trade-one.github.io/ADRVMICR2-REVIVE-USB-Micro-Rev2/)をご覧ください。 
 
-### [マトリックス版](Matrix.md) / [マトリックス版 EnglishVersion](MatrixEN.md)
+### [マトリックス版](Matrix.md) / [matrix version EnglishVersion](MatrixEN.md)
 REVIVEMicroのマトリックス接続可なバージョンです。  
 最大36個のボタンを接続できます。  
 キーボード・マウス・ゲームパッドとして振る舞えます。  
