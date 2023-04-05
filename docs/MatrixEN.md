@@ -27,4 +27,4 @@ When new firmware with bug fixes or added functions is released
 New features can be used by updating the firmware.
 
 # Connection reference
-![image](https://user-images.githubusercontent.com/85532743/177703612-c6eea3d5-94a9-4d04-85f0-4554eda0bb43.png)
+![image](https://user-images.githubusercontent.com/85532743/229967660-316e9dc3-b32d-4e22-8656-c2f5a23af1ef.png)
