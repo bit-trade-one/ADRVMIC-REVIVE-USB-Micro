@@ -29,5 +29,5 @@ REVIVE USB MICROマトリクスブレイクアウトボードには
 
 # 接続参考
 ![image](https://user-images.githubusercontent.com/85532743/229967660-316e9dc3-b32d-4e22-8656-c2f5a23af1ef.png)  
-[クリックで拡大](https://user-images.githubusercontent.com/85532743/229967660-316e9dc3-b32d-4e22-8656-c2f5a23af1ef.png)
+[クリックで画像拡大](https://user-images.githubusercontent.com/85532743/229967660-316e9dc3-b32d-4e22-8656-c2f5a23af1ef.png)
 
