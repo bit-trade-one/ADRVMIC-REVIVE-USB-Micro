@@ -28,5 +28,6 @@ REVIVE USB MICROマトリクスブレイクアウトボードには
 ファームウェアをアップデートすることで新しい機能が使用できます。 
 
 # 接続参考
-![image](https://user-images.githubusercontent.com/85532743/229967660-316e9dc3-b32d-4e22-8656-c2f5a23af1ef.png)
+![image](https://user-images.githubusercontent.com/85532743/229967660-316e9dc3-b32d-4e22-8656-c2f5a23af1ef.png)  
+[クリックで拡大](https://user-images.githubusercontent.com/85532743/229967660-316e9dc3-b32d-4e22-8656-c2f5a23af1ef.png)
 
