@@ -26,3 +26,9 @@ USBインターフェースの入力処理や設定を全てこのモジュー�
     【保証期間】 1年間
     【付属品】保証書 1部
     【生産国】Made in Japan
+    
+## 作例
+
+[「BTO公式」/ 「格ゲーでいろいろアレなヤツを作ってみる。」](https://bit-trade-one.co.jp/blog/20190802/)
+[「Note」様 / 「「ADRVMIC REVIVE USB MICRO」によるサブモニタースタンドの製作」](https://note.com/hideaki_ksm/n/n86e35aa5de34)
+[「PC Watch」様 / 「自分だけのオリジナルUSBコントローラが作れる「REVIVE USB Micro」で変なの作ってみた」](https://pc.watch.impress.co.jp/docs/column/tool/1200128.html)
